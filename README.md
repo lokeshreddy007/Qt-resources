@@ -3,7 +3,7 @@
 ### This repo contains list of Resources from where you can learn Qt if you found any website which is useful and not present in this list,let me known!!
 
 
-### With Qt WHAT AS developer DEVELOPER CAN DO
+### With Qt what we can as an developer 
 
 Create fluid, high-performance and intuitive UIs, applications, and embedded devices – with the same code base for all platforms.
 
